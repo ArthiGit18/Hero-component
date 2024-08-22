@@ -7,6 +7,7 @@ import Homev5 from './home-v5'
 import Homev6 from './home-v6'
 import Homev7 from './home-v7'
 import Homev8 from './home-v8'
+import Homev9 from './home-v9'
 
 export const Pages = () => {
   return (
@@ -18,6 +19,7 @@ export const Pages = () => {
     <Homev6 />
     <Homev7 />
     <Homev8 />
+    <Homev9 />
     </>
   )
 }
