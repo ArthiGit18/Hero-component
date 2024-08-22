@@ -5,6 +5,8 @@ import Homev3 from './home-v3'
 import Homev4 from './home-v4'
 import Homev5 from './home-v5'
 import Homev6 from './home-v6'
+import Homev7 from './home-v7'
+import Homev8 from './home-v8'
 
 export const Pages = () => {
   return (
@@ -14,6 +16,8 @@ export const Pages = () => {
     <Homev3 />
     <Homev5 />
     <Homev6 />
+    <Homev7 />
+    <Homev8 />
     </>
   )
 }
