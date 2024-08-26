@@ -15,6 +15,7 @@ export const Pages = () => {
     <Homev1 />
     <Homev2 />
     <Homev3 />
+    <Homev4 />
     <Homev5 />
     <Homev6 />
     <Homev7 />
