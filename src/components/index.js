@@ -3,9 +3,8 @@ import { Pages } from '../pages'
 
 const Components = () => {
   return (
-    <>
         <Pages />
-    </>
+    
   )
 }
 
